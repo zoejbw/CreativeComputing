@@ -1,5 +1,5 @@
 # CreativeComputing
 Projects from Creative Computing (2018)
 
-JinxedBlinks
+Jinxed Blinks
     Final project, ITP Winter Show 2018
